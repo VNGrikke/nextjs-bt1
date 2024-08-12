@@ -34,3 +34,41 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## mo ta
+
+### app
+
+Tổ chức, quản lý các định tuyến và thành phần của ứng dụng.
+
+### node_modules
+
+Chứa các package, thư viện cung cấp cho dự án.
+
+### .gitignore
+
+Xác định các tệp và thư mục sẽ bị bỏ qua khi đưa mã nguồn lên Git.
+
+### package.json
+
+Chứa thông tin về dự án và danh sách các phụ thuộc.
+
+### public
+
+Chứa các thành phần tĩnh như hình ảnh, video.
+
+### next.config.js
+
+Tệp cấu hình cho Next.js.
+
+### tailwind.config.ts
+
+Chứa cấu hình thư viện tailwind CSS.
+
+### tsconfig.json
+
+Tệp cấu hình TypeScript.
+
+
+
+
